@@ -8,7 +8,7 @@
 - Currently studying Web Development (Bac +1)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,php" alt="skills" />
+  <img src="https://i.pinimg.com/originals/fc/5a/20/fc5a2025b338cc8da83f50a15a1052b9.gif" alt="skills" />
 </p>
 
 ---
