@@ -2,17 +2,16 @@
 
 # 👋 Hi, I'm Abdelah
 
-**Aspiring Full-Stack Developer | Learning by Building**
+**Not yet a full "Full-Stack Developer"**
 
-🌱 Currently focusing on **Python, JavaScript, HTML, and CSS**  
-🚀 Passionate about web development, automation, and modern cloud platforms
+Currently focusing on **Python, JavaScript, HTML, and CSS**  
+Passionate about web development, automation, and modern cloud platforms
 
 </div>
 
 ---
 
 ## 🧠 Currently Learning
-
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -25,7 +24,6 @@
 ---
 
 ## 🗺️ Planned to Learn
-
 <div align="center">
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -43,7 +41,6 @@
 ---
 
 ## 🛠️ Tools & Services
-
 <div align="center">
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -83,6 +80,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=np4abdou1&theme=dark&hide_border=false&layout=compact)
 
 </div>
+
+<img src="https://github-readme-stats.vercel.app/api?username=np4abdou1&theme=default&show_icons=true&hide_border=true&count_private=true" alt="np4abdou1's GitHub Stats" />
 
 ---
 
