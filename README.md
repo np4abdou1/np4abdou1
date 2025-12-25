@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Abdelah
+
 
 **Not yet a full "Full-Stack Developer"**
 
