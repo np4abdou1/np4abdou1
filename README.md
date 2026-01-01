@@ -1,12 +1,14 @@
 <div align="center">
 
-![212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4](https://github.com/user-attachments/assets/49237da7-960d-40d9-a4b6-a5c18a833ea5)
-
-
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=np4abdou1&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  
 Currently focusing on **Python, JavaScript, HTML, and CSS**  
 Passionate about web development, backend development, cyber security.
-
 </div>
+
+
+![np4abdou1's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=np4abdou1&show_icons=true&theme=dark)
 
 ---
 
