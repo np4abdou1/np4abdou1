@@ -2,7 +2,9 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=np4abdou1&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  
+
+![212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4](https://github.com/user-attachments/assets/5cc4145c-d85a-41f8-88df-f43beb3721b4)
+
 Currently focusing on **Python, JavaScript, HTML, and CSS**  
 Passionate about web development, backend development, cyber security.
 </div>
