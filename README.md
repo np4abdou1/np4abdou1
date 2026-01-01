@@ -1,5 +1,8 @@
 <div align="center">
 
+![212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4](https://github.com/user-attachments/assets/49237da7-960d-40d9-a4b6-a5c18a833ea5)
+
+
 Currently focusing on **Python, JavaScript, HTML, and CSS**  
 Passionate about web development, backend development, cyber security.
 
