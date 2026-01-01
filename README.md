@@ -1,11 +1,7 @@
 <div align="center">
 
-
-
-**Not yet a full "Full-Stack Developer"**
-
 Currently focusing on **Python, JavaScript, HTML, and CSS**  
-Passionate about web development, automation, and modern cloud platforms
+Passionate about web development, backend development, cyber security.
 
 </div>
 
