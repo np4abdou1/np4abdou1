@@ -1,74 +1,66 @@
 <div align="center">
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=np4abdou1&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=np4abdou1&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 
-![212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4](https://github.com/user-attachments/assets/5cc4145c-d85a-41f8-88df-f43beb3721b4)
+# Hi there, I'm Abdollah! 👋
 
-Currently focusing on **Python, JavaScript, HTML, and CSS**  
-Passionate about web development, backend development, cyber security.
-</div>
+### 👨‍💻 Full Stack Development Student
 
-
-![np4abdou1's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=np4abdou1&show_icons=true&theme=dark)
-
----
-
-## 🧠 Currently Learning
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<p align="center">
+  Currently crafting seamless web experiences with <b>Next.js</b> and <b>Python</b>. <br>
+  Passionate about <b>Full Stack Dev</b>, <b>Cyber Security</b>, and creating beautiful UIs.
+</p>
 
 </div>
 
 ---
 
-## 🗺️ Planned to Learn
+## 🎨 Tech Stack
+
 <div align="center">
 
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+### Core Languages
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+### Frameworks & Libraries
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 </div>
 
 ---
 
-## 🛠️ Tools & Services
+## ☁️ Services & Tools
+
 <div align="center">
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
 ---
 
-## 🗄️ Databases (Planned)
+## 🏆 Top Projects
+
+<!-- Using a table table ensures the cards sit side-by-side correctly -->
+<!-- Added Star badges below the cards as requested -->
+
+| [**ani-cli-arabic**](https://github.com/np4abdou1/ani-cli-arabic) | [**cenima-cli**](https://github.com/np4abdou1/cenima-cli) |
+| :---: | :---: |
+| <a href="https://github.com/np4abdou1/ani-cli-arabic/stargazers"><img src="https://img.shields.io/github/stars/np4abdou1/ani-cli-arabic?style=for-the-badge" /></a> | <a href="https://github.com/np4abdou1/cenima-cli/stargazers"><img src="https://img.shields.io/github/stars/np4abdou1/cenima-cli?style=for-the-badge" /></a> |
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Appwrite](https://img.shields.io/badge/Appwrite-FD366E?style=for-the-badge&logo=appwrite&logoColor=white)
+![np4abdou1's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=np4abdou1&show_icons=true&theme=tokyonight)
 
 </div>
-
----
-
